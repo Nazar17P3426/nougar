@@ -1,2 +1,2 @@
 # nougar
-Insane malware with source code
+C++ GDI trojan by red-wipet
